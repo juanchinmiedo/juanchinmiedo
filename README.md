@@ -10,7 +10,7 @@
 <!-- Replace USERNAME with your LeetCode username -->
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=juanchinmiedo&theme=dark)
 
-🔗 LeetCode Profile: https://leetcode.com/USERNAME/
+🔗 LeetCode Profile: https://leetcode.com/juanchinmiedo/
 
 ---
 
