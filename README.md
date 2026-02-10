@@ -1,4 +1,4 @@
-# 👋 Hi, I'm juanchinmiedo
+# 👋 Hi, I'm juan
 
 💻 **App Developer & Software Engineering Student**  
 📱 I enjoy building **mobile & web applications**  
